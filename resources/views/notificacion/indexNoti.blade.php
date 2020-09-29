@@ -41,7 +41,7 @@
                   <table id="datatable" class="table table-striped table-bordered" style="width:100%">
                     <thead>
                       <tr>
-                        <th>Código</th>
+                        <th>Códigos y Accesorios</th>
                         <th>Descripción</th>
                         <th>Peso Mínimo</th>
                         <th>Peso Máximo</th>
